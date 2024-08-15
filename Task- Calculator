@@ -1,0 +1,29 @@
+#BASIC CALCULATOR
+
+
+
+
+#Description
+
+
+This is a basic calculator that will allow user to perform simple operations like : addition, subtraction, multiplication and division.
+
+#Features
+
+
+- Sleek, simple design resembling an actual calculator.
+- Hover button effects giving a visually appealing look.
+- Allow continuous operations i.e allows user to perform further operations on the obtained result (if needed).
+- Supports keyboard functionality, allowing you to operate it using your keyboard.
+
+#Technologies Used
+
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+#License
+
+This project belongs solely to the author
